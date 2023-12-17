@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Modhuka Paranagama</title>
+    <link>https://tillyshan.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Modhuka Paranagama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://tillyshan.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Car Price Prediction</title>
+      <link>https://tillyshan.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tillyshan.github.io/Portfolio/post/project-1/</guid>
+      <description>Develop an ML model to predict car prices based on available data and build a web application using flask where users can input data and receive predicted values. The dataset comprises a total of 19,237 records with 18 features. In order to assess the significance of each feature, exploratory data analysis (EDA) was conducted. Subsequently, feature engineering was performed, leading to the exploration and implementation of various machine learning models.</description>
+    </item>
+    <item>
+      <title>Project 2: Cardiovascular Desease Detection</title>
+      <link>https://tillyshan.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tillyshan.github.io/Portfolio/post/project-2/</guid>
+      <description>This project involves creating a machine learning model to classify individuals for cardiovascular disease. Customizations for two distinct business requirements will be implemented. Additionally, a user-friendly web application using Streamlit will be developed, enabling users to input data and receive prompt results. The dataset comprises a total of 70,000 records with 13 distinct features. Exploratory analysis was conducted to identify important insights and patterns. General medical standards were considered in the decision-making process regarding data, such as outlier removal.</description>
+    </item>
+  </channel>
+</rss>
